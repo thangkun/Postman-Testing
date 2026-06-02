@@ -1,14 +1,5 @@
 # BÁO CÁO THỰC HÀNH: TÌM HIỂU VÀ KIỂM THỬ API VỚI CÔNG CỤ POSTMAN
 
-## THÔNG TIN SINH VIÊN
-- **Họ và tên:** Nguyễn Văn A
-- **Mã số sinh viên (MSSV):** 12345678
-- **Môn học:** Kiểm thử phần mềm / Đảm bảo chất lượng phần mềm
-- **Công cụ thực hành:** Postman (Desktop App / Web Agent)
-- **Dịch vụ API thử nghiệm:** Postman Echo (`https://postman-echo.com`)
-
----
-
 ## I. MỤC TIÊU BÀI THỰC HÀNH
 1. Sử dụng thành thạo các thành phần giao diện của Postman: Collections, Requests, Params, Headers, Body, Scripts, và Environments.
 2. Thực hành và nắm rõ cơ chế hoạt động, sự khác biệt bản chất của các phương thức HTTP cốt lõi: `GET`, `POST`, `PUT`, `PATCH`, và `DELETE`.
